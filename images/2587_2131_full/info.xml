@@ -1,0 +1,13 @@
+<!DOCTYPE WebMultiRes>
+<MultiRes format="0">
+<Content type="LRGB_PTM">
+<Size width="1188" height="1018" coefficients="6"/>
+<Scale>1 2 1 1 1 2 </Scale>
+<Bias>253 136 103 76 125 0 </Bias>
+</Content>
+<Tree>85 0
+256
+2048 2048 255
+0 0 0
+</Tree>
+</MultiRes>
